@@ -1,0 +1,887 @@
+standard_spelling_isv
+Avstralija
+Azija
+Alpy
+Amazonka
+Amerika
+Anglija
+Antarktida
+Atlantida
+Afrika
+Berlin
+Brazilija
+Bratislava
+Brno
+Viena
+Venera
+Bug
+Němcija
+Grecija
+Don
+Evropa
+Egipt
+Zemja
+Indija
+Španija
+Italija
+Kanada
+Kitaj
+Latvija
+Litva
+London
+Mars
+Meksiko
+Merkurij
+Moskva
+Nepal
+Pariž
+Praga
+Rim
+Rodžeńje
+Rosija
+SŠA
+Saturn
+Sirija
+Skandinavija
+Byk
+Turcija
+Vels
+Francija
+Jupiter
+Japonija
+avtobus
+voz
+avtor
+avtoritet / avtoritetnosť
+agent
+peklo
+advokat
+akumulator
+aktivitet / aktivnosť
+aktualizacija
+aktor
+akula
+akustika
+aleja
+almaz / diamant
+Amerikanec
+angel
+pomaranča
+argument
+arena
+aritmetika
+astronavt
+ataka
+Aztek
+aerodrom / aeroport / letišče
+baba / babica / babuška
+bagažnik
+balans
+balet
+banan
+bank / banka
+bankir
+bar
+baraban / buben
+barmen
+barel / bočka / bočva
+basketbol / košarka
+baterija
+věža
+bezopasnosť / bezpečnosť
+bejsbol
+benzin
+beton
+biblioteka
+bilet
+binoklj / dalekogled
+biolog
+značka
+sěča
+blog
+bedrenec
+bolěznj / hvoroba
+boljnica / lěčiljnja
+bomba
+boj
+obuvka
+brat
+prěgledka
+met
+budučnosť
+byvol
+bukva / litera / pisme
+bulka
+papir
+butylka / fljaška
+byk
+vagonetka / vozok
+vaza
+vakuum
+vala / volna
+vědro
+věďma
+velikan
+velosiped
+Madjar / Vugrec
+větrak / ventilator
+věra
+helikopter / vrtolet
+povraz
+jar / vesna
+vaga
+větr
+galuz / větka
+šunka
+vilica
+vino
+grozďje
+pozornosť / primětka / vnimańje / čuvańje
+voda
+vozduh
+balon
+vojna
+volk
+čaroděj
+vrana
+ovratnik / zašijka
+neprijatelj / vrag
+lěkarka
+lěkar
+vrěme / čas
+vsemir / vsesvět
+izvod
+gaz
+gazeta
+harmonija
+gvozď
+gel
+geniaľnosť
+genij
+heroj
+gigant
+himn
+gitara
+oko
+oči
+gněv
+govedina
+god / rok
+glava
+glas
+gora
+grlo
+grad
+grn
+gostinica / hotel
+granata
+granica / medža
+grib
+grupa / skupina
+gruša
+guba
+gubernator / naměstnik
+gubka
+gus
+nyrec / nyrjatelj
+data
+dveri / vrata
+palac
+děvčinka
+děvica
+dědok
+delfin
+denj
+groše / pěnezy
+selo
+drěvo
+děti
+mlade
+džem
+džungla
+dinozavr
+direktor
+dirigent
+distribucija
+blagosklonnosť
+dožď
+dok
+dolg
+dom
+dodatok / pridatok
+doska
+dostup
+dohod
+dočerka
+drakon
+prijatelj
+dub
+duša
+dira
+dyh
+jednorog
+jezdec
+smrěk
+želězo
+želudok
+perla
+životina
+tekutina
+žiťje / život
+žirafa
+žuk / buba
+žerav
+časopis / žurnal
+plot
+snědańje / zautraka
+zad
+naručka / zamolvjeńje
+zakon
+zamok
+zapiska
+črvenogrlka
+zvězda
+zvěr
+zvuk
+zdravje
+zebra
+zemjedělec
+zrcalo
+žito / zrno
+zima
+gad / zmija
+věda / vědnosť
+zlato
+zombi
+zub
+igla / iglica
+igra
+kostka
+pomysl
+izměna / izměnjeńje
+iznahodok
+imbir
+impuls / poryv
+indyk
+inostranec / inozemec / čudžezemec / čudžinec / zagraničnik
+izslědovańje
+historija
+kabelj
+kazino
+kaktus
+kalendar
+kalkulator
+kamenj
+komin
+kampanija
+vakacije
+kapital
+kapja
+kapusta
+kapjušon / kapuca
+olovka / grafitka
+karlik / gnom
+kěšenj
+karp
+mapa
+karta
+karton
+karuselj
+kariera
+grnec
+kafe / kavarnja
+kolěbanky / ljuljačky
+kašelj
+kvadrat
+kvartira
+kenguru
+kivi
+kyj / pala
+kino
+cegla / ceglina
+kyt / veľryb
+klaviatura / tipkovnica
+klavir
+tipka
+grobišče
+klas / klasa
+detelina / koničina
+klej / lěpilo
+klětka
+klěšč
+klěšče
+klient / zakaznik
+kloun
+klub
+ključ
+klen
+kniga
+knopka
+knez / knežič / princ
+kod
+koza
+lono
+kolěno
+kolo
+koledž
+klada
+studnja
+zvon
+koljce / prstenj
+kometa
+komiks
+komitet
+komnata / komora
+komfort
+konec
+konkurencija
+konsilium / rada
+kontingent
+kontrabandnik
+koncert
+konj
+kopija
+korab
+loď
+korenj
+koš
+krabka
+krabočka
+krava
+kralica / kraljeva
+kralj
+korona
+kosmonavt
+kosmos
+kosť
+kot
+kava
+kotka
+krab
+kraj
+krevetka
+križ
+kriva
+kristal
+ležišče / lože / postelj
+krov
+krokodil
+kralik
+krot
+krug
+govedo
+krilo
+krysa / ščur
+hak
+džbanok
+ljaljka
+kukuruza
+pesť
+kupělj
+kust
+lager
+dlanj
+laser
+laj
+lampa / světilka
+žarovka
+lapa
+labeď
+lev
+ostrje
+lěs
+lěto
+lider
+limon
+limonada
+limuzina
+linija / črka
+list
+obličje
+čelo
+pasť
+lodka
+ložica / ložka
+lokomotiva / parovoz
+losos
+los
+livada / luka
+cibulja / luk
+luna
+luč
+lukostrělec
+ljubovnica
+ljubov
+žaba
+led
+magazin
+mamut
+mango
+brězenj / marec
+marš
+maslina / olivka
+maslo / olej
+masa
+matematik
+matematika
+mašina
+majak / světiľnik
+ravnohalo
+mebelj
+medbrat
+medvěď
+medsestra
+měď
+kreda
+melodija / napěv
+menju
+mša
+měsec
+metr
+meč
+midija
+mikroskop
+svět
+mir
+sosavec
+model
+mozg
+molitva
+blěskavica / molnja / perun
+mlěko
+mlat / kladivo
+mlatok
+monopol
+morje
+mrkva
+mrazina / sladoled
+mraz
+mrazilka
+most
+motocikl
+obmannik / omamnik / izmamitelj / izmamnik / obmanyvatelj
+močnosť
+mramor
+muka
+mravka
+muha
+muhomor
+myš
+mjuzikl
+meso
+meta
+krugla
+med
+naděja
+ime
+napoj
+nasěkomo / šestinožka
+nasos
+nauka
+nahodka / odkryťje
+nebo
+nebodrap
+sedmica / tydenj
+nenavisť
+netopyr
+nafta
+nečistota
+dol
+početkujuči
+noga
+nož
+nomer
+nos
+ponožka / škarpetka
+noč
+izgled / pozor
+obložka
+obměn / razměna
+entitet / jedinica
+objektiv
+ovca
+ogonj
+ograda
+odobrjeńje
+jezero
+okean
+okno
+jelenj
+opeka
+opera
+izkušenosť / izkušeńje
+orěh
+orel
+jesenj
+postojka
+ostrov
+osmonog
+osel
+otvor
+odgovor / odpověď
+odvrtka
+odděl
+otec
+odliv
+kelner
+lov / lovitva / lovjeńje
+ohrana
+naočila / okuljary
+prst
+palma
+paljto
+pameť
+panda
+tata
+parašut
+park
+pasport
+pavuk
+pavučina
+pěvec
+pěna
+pepel / popel
+prěd
+prěključ
+prěměna
+pero
+preskva
+pěsok
+pivo
+pila
+pilot
+pingvin
+pir
+piramida
+pirat
+kolač
+pisatelj
+pistolet
+dopis
+pica
+travjeńje / varjeńje
+plamenj
+plan
+planeta
+plastik
+plastelin
+suknja
+plašč
+rame
+plošča
+plaž
+pribrěžje / primorje
+kuhar
+kuharka
+vodžeńje
+povrhnja / povrhnosť / površina
+pivnica / podval / suteren
+podbradok
+podkova
+podlivka
+podpis
+podglavnica / poduška
+jedańje / jedeńje
+pojezd / vlak
+požar
+gasitelj / požarnik
+poker
+pokryťje
+podloga / tlo
+niva / polje
+policija
+ručnik / ubrus
+polus
+Poljak
+let / polet
+pomidor / tomat
+pomoč
+popoldenj / popoludńje
+prosak / žebrak
+papugaj
+prase
+port / pristanišče
+ambasada
+pohod
+pogreb
+pocělunok / pocěluvka
+poezija
+pas / remenj
+pravilo
+vladar
+vladarka
+prezident
+presa
+prizrak
+prigoda
+primamka
+princesa
+prijeťje
+pričina
+izprobovańje / opyt / pokušeńje
+provodnik
+programist
+projekt
+promysl
+prostor / prostranstvo
+pružina
+skok
+ptak / ptica
+bublina / měhurok
+punkt
+pčela
+pšenica
+prah / pyl
+peta
+praca
+ravnosť
+radar
+radio
+radosť
+duga
+raz
+razvivańje / razviťje
+veseljańje / zabavjeńje
+raketa
+raport
+rastlina
+grebenj
+raund
+rebro
+čedo
+revolucija
+guma
+rěka
+reklama
+restoran
+recept
+ryž
+robot
+rog
+narodžeńje
+roza
+roman
+rast
+usta
+rtuť
+košulja
+rudnik
+ruka
+ruletka
+ruž
+Rus
+držak / držka
+ručka
+ryba
+rycar
+sad
+salata
+samit
+samokat
+aeroplan / lětalo / samolet
+cukr
+svrdlo
+světlo
+svěča
+olovo / svinec
+svinja
+celer / seler
+rodina / sěmejstvo / sěmja
+server
+srdce
+srěbro
+sestra
+sětka
+sěť / mrěža
+sědališče / sěděńje
+sistema / sustav
+basnj
+skala
+lavka
+rabat
+skorpion
+guslje / skripka / violina
+slěd
+slon
+sluh
+pad
+směna
+smrť
+směh
+sněg
+pes
+sova
+radca / sovětnik
+sok
+solnce
+slama
+solj
+sopran
+sprotivjeńje
+stańje
+spaljnja
+satelit / sputnik
+link
+zaklad
+stadion
+stado
+steklo
+stěna
+stolica
+jedaľnja
+stopa
+strana
+stranica
+strahovańje
+strělec / strěľnik
+ostrižeńje
+struna
+student
+stol / stolka / stul
+stupenj
+suďja
+suma
+skrinja
+polivka / supa
+superheroj
+scena
+scenarij
+konto / učet
+syr
+tanec
+talirka
+televiděńje / televizija
+teleskop
+telefon
+tělo
+tele / teletko
+temnosť / temnota / ťma
+temperatura / teplota
+tenis
+teplo
+terier
+tehnik
+tigr
+tolpa
+pogon
+palivo
+topolja
+zadržnik
+točka
+trava
+transparent
+alarm
+trener
+treska
+trikutnik / trivugoľnik
+truba
+toalet
+turnir
+tykva
+tulipan
+tjurma / vezeńje / zaključiljnja / zatvor
+uběžišče
+kut / vugol
+vugolj
+vuzol / svezok
+vezenj / zaključiľnik
+polž / slimak
+usměh
+duh
+izniščeńje / razrušeńje / uniščeńje
+propasť / upad
+upyr / vampir
+vusy
+katka
+utes
+uho
+učitelj
+učiteljka
+naučnik
+faklja
+fakt
+fanat
+fantazija
+farsa
+fasolja
+feniks
+figura
+fikcija
+filial
+filozof
+film
+zname
+flejta
+forma
+formula
+fortepiano
+Francuz
+ovoč / plod
+furgon
+hvost / ogon
+hirurg
+hlěb
+bavolna
+hobi
+hoďba
+homjak / hrček
+hram
+hudožstvo / umětnosť
+artist / hudožnik / umětnik
+cělj
+centr / srědišče
+veriga / lancuh / lanec
+crkva / crkov
+cikl
+cirk
+čaj
+čajnik
+čary
+časina
+česť
+časovnik
+čeljusť
+črvjak
+lob / lobanja / čerep
+žolv
+čerešnja
+črnilo
+Čeh
+sočevica
+čuma
+čoln
+krok
+šampansko
+šans
+šahy
+škola
+škoľnik
+klobuk
+čokolada
+špion
+nogavice / nogavky
+štat
+svorenj
+žart
+jedvab / svila / šolk
+lice
+ščetka
+ekvator
+ekspansija
+eskadron
+etaž
+efekt / učinok
+spodnica
+humor
+pravnik
+jabloko
+jagoda
+jad
+jedro
+jezyk
+jajce
+rang / uravenj
+jastreb
+jahta
+zasuvka
+jež
